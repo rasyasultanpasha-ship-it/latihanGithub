@@ -16,5 +16,10 @@ namespace latihanGithub
         {
             InitializeComponent();
         }
+
+        private void FormJurusan1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
