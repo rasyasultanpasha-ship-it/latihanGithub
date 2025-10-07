@@ -52,11 +52,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormJurusan.cs">
+    <Compile Include="FormJurusan1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormJurusan.Designer.cs">
-      <DependentUpon>FormJurusan.cs</DependentUpon>
+    <Compile Include="FormJurusan1.Designer.cs">
+      <DependentUpon>FormJurusan1.cs</DependentUpon>
     </Compile>
     <Compile Include="Formlogin.cs">
       <SubType>Form</SubType>

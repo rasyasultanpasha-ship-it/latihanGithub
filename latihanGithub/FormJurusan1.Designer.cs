@@ -1,6 +1,6 @@
 ﻿namespace latihanGithub
 {
-    partial class FormJurusan
+    partial class FormJurusan1
     {
         /// <summary>
         /// Required designer variable.

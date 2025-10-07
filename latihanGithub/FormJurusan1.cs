@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace latihanGithub
 {
-    public partial class FormJurusan : Form
+    public partial class FormJurusan1 : Form
     {
-        public FormJurusan()
+        public FormJurusan1()
         {
             InitializeComponent();
         }
